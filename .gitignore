@@ -1,0 +1,10 @@
+*.o
+akai
+*.gch
+*.swp
+Makefile
+Akai
+.qmake.stash
+*.pyc
+__pycache__
+objects
